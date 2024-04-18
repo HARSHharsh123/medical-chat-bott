@@ -50,10 +50,7 @@ Access the chatbot interface through a web browser at http://localhost:8080.
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for any enhancements or bug fixes.
 
-
-
-
-License
+## License
 This project is licensed under the MIT License.
 
 
