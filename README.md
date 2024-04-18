@@ -2,6 +2,14 @@
 
 This project is an AI-powered chatbot built using Flask and various natural language processing (NLP) techniques for Skin Disease Information , Symptoms , treatments , cause etc.
 
+## DEMO VIDEO 
+
+
+
+https://github.com/HARSHharsh123/medical-chat-bott/assets/103876348/dcdb0bbc-b642-4019-a51a-920269d4d3d6
+
+
+
 ## Features
 
 1. Language Understanding: Utilizes Hugging Face embeddings and Chroma for understanding natural language input.
